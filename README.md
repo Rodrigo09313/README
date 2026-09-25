@@ -15,12 +15,15 @@ deployment and measurable behavior.
 - speech-to-text and media processing
 - OpenClaw multi-agent workflows
 
-## Selected project
+## Current project
 
-### [Telegram Media Transcriber](https://github.com/Rodrigo09313/telegram-media-transcriber)
+### Tulza — pocket tools for Telegram
 
-A Dockerized Telegram bot for downloading public media, extracting subtitles
-and transcribing speech into text or SRT.
+A network of small single-purpose Telegram bots on one shared core: Telegram ID
+lookup, media download and transcription, fair random picks and channel
+giveaways, QR codes. One runtime serves every bot, heavy jobs go to a queue, and
+subscriptions, limits and ads are managed from a single admin bot. In
+development (private repository).
 
 ## How I build
 
